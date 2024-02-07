@@ -1,5 +1,0 @@
-Open powershell on the same directory as the python script;
-Run the command "pyinstaller --onefile your_script_name.py";
-If you run into an error, install pyinstaller with the following command: "pip install pyinstaller";
-Rerun the "pyinstaller --onefile your_script_name.py" command;
-All done, your file is now inside the "dist" directory.
